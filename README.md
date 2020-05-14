@@ -5,12 +5,12 @@ This was the final assignment for the Spring 2019 Object Oriented Programming I 
 
 ## Implementation Explanation
 
-(This is a copy of the info in "Game Implementation Explanation.txt")/
+(This is a copy of the info in "Game Implementation Explanation.txt")
 
-TLS/
-CSCE A222/
+TLS
+CSCE A222
 
-Brief explaination on why I chose to implement the game in the way that I did:/
+Brief explaination on why I chose to implement the game in the way that I did:
 
   In order to put order in the GUI I decided to have one main JPanel that holds another JPanel (named panel1) and a JLayeredPane (named board).
   The main JPanel is then displayed on a JFrame. In the code for the GUI the gameboard is on the JLayeredPane. 
