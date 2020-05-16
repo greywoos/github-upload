@@ -332,7 +332,7 @@ public class Display implements  Cards{
             @Override
             public void actionPerformed(ActionEvent e) {
                 //checks if square is a property square
-                //checks if property square is own buy current player
+                //checks if property square is owned by current player
                 //checks if property already has 4 houses
                 //checks if player has enough money to buy houses
                 //buy house and up property rent
